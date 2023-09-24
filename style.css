@@ -1,0 +1,69 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+header {
+    position:fixed;
+    top: 0;
+    left: 0;
+    background-color: black;
+    color:gold;
+    Width:100%;
+    padding: 10px;
+    border-bottom: 1px solid white;
+} .social-icons {
+    display: flex;
+    gap: 80px;
+    margin-right: 42%;
+
+
+}.social-icons img {
+width: 30px;
+height: 30px;
+transition: .2s ease-in-out;
+
+}.social-icon img:hover{
+transform: scale(1.5);
+
+}
+.item {
+    width: 350px;
+    height: 350px;
+    border-radius: 40px;
+    border-style: solid;
+    background-color: aqua;
+    border-color: aqua;
+    box-shadow: 0px 0px 3px;
+    text-align: center;
+    font-size: 15px;
+
+}
+
+.box {
+    display: block;
+    text-indent: 20px;
+    font-size: 25px;
+}
+
+
+
+
+a{
+    color:grey ;
+    text-decoration: none;
+}
+main{
+    margin-top: 50px;
+}
+.box {
+    display: flex;
+}
+.item {
+    width: 250px;
+    height: 150px;
+    border: 1px  solid black;
+    background-color: white;
+    padding: 5px;
+    margin: 50px;
+    box-shadow: 2px 2px 5pz grey;
+} 
