@@ -67,3 +67,11 @@ main{
     margin: 50px;
     box-shadow: 2px 2px 5pz grey;
 } 
+.ImgMain{
+    display:block; 
+    margin-left:auto;
+    margin-right: auto;
+    width: 250px;
+    height:150px;
+
+}
