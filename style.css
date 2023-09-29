@@ -11,10 +11,11 @@ header {
     Width:100%;
     padding: 10px;
     border-bottom: 1px solid white;
+    display: flex;
 } .social-icons {
     display: flex;
     gap: 80px;
-    margin-right: 42%;
+    margin-left: 36%;
 
 
 }.social-icons img {
